@@ -16,7 +16,7 @@ Other details:
 
 For XMLRPC within Octave, py_xmlrpc.py script is used.
 
-Make sure that liboctave-dev is installed (Type "sudo  apt install liboctave-dev"), and zeromq package is enabled in Octave
+Make sure that liboctave-dev is installed (Type "sudo  apt install liboctave-dev" in terminal window), and zeromq package is enabled in Octave
 (Type "pkg install -forge zeromq" in Octave)
 
 
