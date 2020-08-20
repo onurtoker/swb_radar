@@ -5,7 +5,7 @@ Pure Python implementation:
 
 myConstants.py has constant paramater values,
 myUSRP.py has low-level UHD calls and provides a layer of abstraction, and
-usrp_radar.py has is the main program.
+usrp_radar.py is the main program.
 
 GNU radio + Octave implementation:
 
